@@ -1,6 +1,6 @@
 # DVMS: Multi-Modal CLIP Search
 
-DVMS is a complete local visual and textual similarity search application. It enables finding visually similar images from a catalog by analyzing visual features, or by using natural language descriptions (e.g. "pink themed glowing lights venue"). This is achieved by utilizing OpenAI's CLIP model, which uniquely bridges the gap between text and images in a unified mathematical space.
+DVMS(Dense Visual Metric Search) is a complete local visual and textual similarity search application. It enables finding visually similar images from a catalog by analyzing visual features, or by using natural language descriptions (e.g. "pink themed glowing lights venue"). This is achieved by utilizing OpenAI's CLIP model, which uniquely bridges the gap between text and images in a unified mathematical space.
 
 ## What is CLIP and How Does it Work?
 
