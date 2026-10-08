@@ -4,7 +4,7 @@ DVMS(Dense Visual Metric Search) is a complete local visual and textual similari
 
 ## What is CLIP and How Does it Work?
 
-CLIP (Contrastive Language-Image Pretraining) is a machine learning model developed by OpenAI that understands both images and text. 
+CLIP (Contrastive Language-Image Pretraining) is a deep learning model developed by OpenAI that understands both images and text. 
 
 Unlike traditional models that only look at pixels, CLIP was trained on millions of image-text pairs. It learns to map both images and text into the **exact same 512-dimensional vector space**. 
 
