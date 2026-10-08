@@ -1,7 +1,14 @@
-torch
-torchvision
-pillow
-qdrant-client
-fastapi
-uvicorn
-python-multipart
+# Deep learning / CLIP
+torch>=2.14
+torchvision>=0.29
+transformers>=5.18
+pillow>=12.3
+
+# Vector database
+qdrant-client>=1.19
+
+# Backend API
+fastapi>=0.142
+pydantic>=2.13
+uvicorn>=0.54
+python-multipart>=0.0.32
